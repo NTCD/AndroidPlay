@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/NTCD/AndroidPlay.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/NTCD/Android_Play.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Users\Renier\AndroidStudioProjects" />
